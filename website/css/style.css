@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(118, 255, 209);
+    color: blueviolet;
+    /*text color*/
+    font-family: cursive;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/918/182/non_2x/hand-drawn-seamless-pattern-with-cute-clouds-on-a-sky-blue-background-free-vector.jpg);
+    /*to not let the background repeat:
+    background-repeat: no-repeat ... or something else
+    background-size: cover ... or something else*/
+    /*to be bold:
+    font-weight:##*/
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: blueviolet;
+}
+
+a:visited {
+    color:darkblue;
+}
+
+img {
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    /*display: block;
+    margin: auto;*/
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+    font-size: 55px;
+    font-family: algerian, 'Times New Roman', Times, serif;
+}
